@@ -3,7 +3,7 @@
 
 **Bot** using for search API - _djangoApiSearch_
 ## Installation
-* Download this project 
+* Download this repository 
 * Create virtual environment
 * Install `requirements.txt`
 ```python
